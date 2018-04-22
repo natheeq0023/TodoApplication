@@ -10,9 +10,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentSkipListMap;
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- * @author Olivier Croisier
- */
+
 @Controller
 public class TodoController {
 

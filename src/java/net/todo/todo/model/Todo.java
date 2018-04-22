@@ -1,8 +1,5 @@
 package net.thecodersbreakfast.todo.model;
 
-/**
- * @author Olivier Croisier
- */
 public class Todo {
 
     private Long id;
